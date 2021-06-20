@@ -155,7 +155,8 @@ async def clone_medias(client: Bot, message: Message):
                         disable_notification=True
                     )
                 except FloodWait as e:
-                    await asyncio.sleep(e.x)
+                    # await asyncio.sleep(e.x)
+                    await asyncio.sleep(3)
                 except Exception:
                     await msg1.edit_text(Presets.COPY_ERROR, reply_markup=reply_markup_finished)
                     await reset_all(id)
