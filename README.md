@@ -23,7 +23,7 @@
 
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jinspalakkattu/File-Forwarding-Bot-V2.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jinspalakkattu/File-Forwarding-Bot-V2.0_Old)
 
 <br>
 
